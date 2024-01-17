@@ -1,3 +1,8 @@
+## How to use
+To use this repo, after clone it, the folder of the project cloned must be renamed. You must rename from `tutorial-dbt-dagster` to `jaffle_shop`.
+Once you've done that, you can continue as normal
+
+
 ## Testing dbt project: `jaffle_shop`
 
 `jaffle_shop` is a fictional ecommerce store. This dbt project transforms raw data from an app database into a customers and orders model ready for analytics.
